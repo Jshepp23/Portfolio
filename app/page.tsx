@@ -18,7 +18,7 @@ export default function Home() {
             </p>
 
             <p className="mt-4 text-gray-300 max-w-xl">
-              Incoming Computer Science graduate from the University of Alabama with experience
+              Computer Science graduate from the University of Alabama with experience
               building production-style backend systems using modern frameworks and tools.
               Focused on scalable APIs, authentication, and data-driven applications.
             </p>
