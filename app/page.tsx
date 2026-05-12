@@ -98,11 +98,11 @@ export default function Home() {
 
             <div className="bg-gray-900 border border-gray-800 p-5 rounded-xl hover:border-blue-500 hover:shadow-lg transition">
               <h3 className="text-xl font-semibold">
-                Full-Stack Job Tracker (In Progress)
+                Full-Stack Job Tracker
               </h3>
 
               <p className="text-gray-400 mt-2">
-                Building a production-style job tracking platform using FastAPI,
+                Built a production-style job tracking platform using FastAPI,
                 PostgreSQL, Next.js, and JWT authentication. Features include
                 secure authentication, analytics dashboards, application tracking,
                 and RESTful backend APIs.
@@ -120,7 +120,7 @@ export default function Home() {
                 target="_blank"
                 className="inline-block mt-4 text-sm text-blue-400 hover:underline"
               >
-                View Progress →
+                Code →
               </a>
             </div>
 
